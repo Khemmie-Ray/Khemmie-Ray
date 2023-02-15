@@ -2,7 +2,7 @@
 
 ![Banner](./assets/cover-banner.gif)
 
-<h1 style="text-align: center;"> Hello!! <img src="assets/wave.gif" alt="" style="width: 20%;"/></h1>
+# Hi there! <img src="assets/wave.gif" alt="" style="width: 40px; height: 40px;"/>
 I'm Oluwakemi Atoyebi, a Frontend developer from Nigeria. I’m currently learning about the potentials of blockchain and Web3 technology and how it can transform the way applications are used and built.
 
 - 😄 Pronouns: She/Her
