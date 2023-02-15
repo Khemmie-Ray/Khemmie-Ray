@@ -30,7 +30,7 @@ I'm Oluwakemi Atoyebi, a Frontend developer from Nigeria. I’m currently learni
 
 ## 📫 Contact
 
-I love connecting with and meeting new people. Connect with me let's talk about ideas, opportunities and random things. You can say hi ![](./assets/blob-sunglasses.gif) to me on:
+I love connecting with and meeting new people. Connect with me let's talk about ideas, opportunities and random things. You can say hi to me on:
 
 <a href="https://www.linkedin.com/in/oluwakemi-atoyebi"><img src="https://img.shields.io/badge/Oluwakemi Atoyebi-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
 <a href="https://github.com/Khemmie-Ray"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
