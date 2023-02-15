@@ -2,7 +2,7 @@
 
 ![Banner](./assets/cover-banner.gif)
 
-<h1 style="text-align: center;"> Hello!! <img src="assets/wave.gif" alt="" style="width: 30%;"/></h1>
+<h1 style="text-align: center;"> Hello!! <img src="assets/wave.gif" alt="" style="width: 20%;"/></h1>
 I'm Oluwakemi Atoyebi, a Frontend developer from Nigeria. I’m currently learning about the potentials of blockchain and Web3 technology and how it can transform the way applications are used and built.
 
 - 😄 Pronouns: She/Her
@@ -30,7 +30,7 @@ I'm Oluwakemi Atoyebi, a Frontend developer from Nigeria. I’m currently learni
 
 ## 📫 Contact
 
-I love connecting with and meeting new people. Connect with me let's talk about ideas, opportunities and random things. You can say hi <img src="assets/blob-sunglasses.gif" alt="" style="width: 3%; vertical-align: middle; @media (max-width: 600px){}"> to me on:
+I love connecting with and meeting new people. Connect with me let's talk about ideas, opportunities and random things. You can say hi ![](./assets/blob-sunglasses.gif) to me on:
 
 <a href="https://www.linkedin.com/in/oluwakemi-atoyebi"><img src="https://img.shields.io/badge/Oluwakemi Atoyebi-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
 <a href="https://github.com/Khemmie-Ray"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
