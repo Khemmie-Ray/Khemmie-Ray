@@ -30,14 +30,14 @@ I'm Oluwakemi Atoyebi, a Frontend developer from Nigeria. I’m currently learni
 
 ## 📫 Contact
 
-I love connecting with and meeting new people. Connect with me let's talk about ideas, opportunities and random things. You can say hi to me on:
+I love connecting with and meeting new people<img src="assets/blob-sunglasses.gif" alt="" style="width: 20px; height: 20px; vertical-align: middle;">. Connect with me let's talk about ideas, opportunities and random things. You can say hi to me on:
 
 <a href="https://www.linkedin.com/in/oluwakemi-atoyebi"><img src="https://img.shields.io/badge/Oluwakemi Atoyebi-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
 <a href="https://github.com/Khemmie-Ray"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
 <a href="https://twitter.com/Haramide"><img src="https://img.shields.io/badge/@Haramide-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
 <a href="mailto:atokemmy@gmail.com"><img src="https://img.shields.io/badge/atokemmy@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
 
-## 📈 Git Stats
+## 📈 Github Stats
 
 [![Khemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khemmie-Ray&show_icons=true&theme=dracula&hide=issues)](https://github.com/khemmie-ray/github-readme-stats)
 
