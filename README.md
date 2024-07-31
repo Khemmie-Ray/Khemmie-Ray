@@ -46,7 +46,7 @@ I love connecting with new people! Let's chat about ideas, opportunities, and an
 <a href="https://github.com/Khemmie-Ray"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
 <a href="https://x.com/Haramide"><img src="https://img.shields.io/badge/@Haramide-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
 <a href="mailto:atokemmy@gmail.com"><img src="https://img.shields.io/badge/atokemmy@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
-<a href="https://medium.com/@atokemmy"><img src="https://img.shields.io/badge/@atokemmy-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
+<a href="https://medium.com/@atokemmy"><img src="https://img.shields.io/badge/@atokemmy-informational?style=flat&logo=medium&logoColor=white&color=cc338b"></a>
 
 ## 📈 Github Stats
 
