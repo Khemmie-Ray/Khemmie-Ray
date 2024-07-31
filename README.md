@@ -6,7 +6,8 @@
 <br>
 I'm Oluwakemi Atoyebi, a Frontend and Smart Contract Developer from Nigeria. I enjoy turning ideas into reality, cycling through design, build, test, and repeat. Right now, I’m exploring Ethereum and Starknet, sharpening my skills in Solidity and Cairo.
 <br>
-<br>
+
+
 - 😄 Pronouns: She/Her
 
 - 👯 I’m looking to contribute to open source and team up on cool Web2 and Web3 projects.
