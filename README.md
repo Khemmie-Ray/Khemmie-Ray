@@ -2,17 +2,18 @@
 
 ![Banner](./assets/cover-banner.gif)
 
+
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║   OLUWAKEMI ATOYEBI                                                                  ║
-║   ──────────────────                                                                  ║
-║   Full-Stack Developer · Smart Contract Engineer · Solidity DevRel                    ║
-║   Scrimbassador · Web3Bridge Mentor · Writer                                          ║
-║                                                                                       ║
-║   Onchain.                                                               she/her      ║
-║                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                                 ║
+║   OLUWAKEMI ATOYEBI                                                                                            ║
+║   ──────────────────                                                                                           ║
+║   Full-Stack Developer · Smart Contract Engineer · Solidity DevRel                                             ║
+║   Scrimbassador · Web3Bridge Mentor · Writer                                                                   ║
+║                                                                                                                ║
+║   Onchain.                                                                                       she/her       ║
+║                                                                                                                ║
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
@@ -105,6 +106,7 @@ Not a "let's connect" person. More of a "send me something interesting and let's
   <a href="https://github.com/Khemmie-Ray">
     <img height="180" src="./profile/stats.svg" alt="Khemmie's GitHub stats" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Khemmie-Ray">
     <img height="180" src="./profile/top-langs.svg" alt="Top Langs" />
   </a>
