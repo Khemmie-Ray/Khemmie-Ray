@@ -2,56 +2,114 @@
 
 ![Banner](./assets/cover-banner.gif)
 
-# Hi there! <img src="assets/wave.gif" alt="" style="width: 40px; height: 40px;"/>
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║   OLUWAKEMI ATOYEBI                                                                  ║
+║   ──────────────────                                                                  ║
+║   Full-Stack Developer · Smart Contract Engineer · Solidity DevRel                    ║
+║   Scrimbassador · Web3Bridge Mentor · Writer                                          ║
+║                                                                                       ║
+║   Onchain.                                                               she/her      ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
 <br>
-I'm Oluwakemi Atoyebi, a Frontend and Smart Contract Developer from Nigeria. I enjoy turning ideas into reality, cycling through design, build, test, and repeat. Right now, I’m exploring Ethereum and Starknet, sharpening my skills in Solidity and Cairo.
+
+> _"The best code, like the best stories, makes the complex feel inevitable."_
+
 <br>
 
+### Chapter One: The Plot
 
-- 😄 Pronouns: She/Her
+I build full-stack dApps on Ethereum and its scaling solutions — from pixel-perfect frontends to gas-optimized Solidity — and then I write about the things I build. My second job is making blockchain feel less alien: breaking down complex Web3 concepts so they land with people who aren't neck-deep in whitepapers.
 
-- 👯 I’m looking to contribute to open source and team up on cool Web2 and Web3 projects.
+Currently: building onchain, doing Solidity DevRel at [Dev3Pack](https://dev3pack.com), mentoring the next wave of Web3 developers at [Web3Bridge](https://www.web3bridgeafrica.com/), and helping people learn to code as a [Scrimbassador at Scrimba](https://scrimba.com/?via=u0j80o).
 
-- ⚡ Fun fact: When I'm not coding, I love diving into literature, movies, music, art, and travel adventures.
-
-## 🔧Technology & Tools
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 <br>
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Cairo-informational?style=flat&logo=cairo&logoColor=white&color=cc338b)
+
+### Chapter Two: The Arsenal
+
+<details>
+<summary><b>⌁ Languages</b> — the ones I think in</summary>
 <br>
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
+
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![](https://img.shields.io/badge/Cairo-F5843C?style=for-the-badge&logo=cairo&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⌁ Frontend</b> — where the user lives</summary>
 <br>
-![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=sass&logoColor=white&color=cc338b)
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⌁ Web3</b> — where the money lives</summary>
 <br>
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Tools-Foundry-informational?style=flat&logo=foundry&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=cc338b)
 
-## 📫 Contact
+![](https://img.shields.io/badge/wagmi-35324a?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/viem-35324a?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/Ethers.js-35324a?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/Foundry-35324a?style=for-the-badge&logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 
-I love connecting with new people! Let's chat about ideas, opportunities, and anything under the sun. Feel free to say hi on:
+</details>
 
-<a href="https://www.linkedin.com/in/oluwakemi-atoyebi"><img src="https://img.shields.io/badge/Oluwakemi Atoyebi-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
-<a href="https://github.com/Khemmie-Ray"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
-<a href="https://x.com/Haramide"><img src="https://img.shields.io/badge/@Haramide-informational?style=flat&logo=x&logoColor=white&color=cc338b"></a>
-<a href="mailto:atokemmy@gmail.com"><img src="https://img.shields.io/badge/atokemmy@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
-<a href="https://medium.com/@atokemmy"><img src="https://img.shields.io/badge/@atokemmy-informational?style=flat&logo=medium&logoColor=white&color=cc338b"></a>
+<details>
+<summary><b>⌁ Tools</b> — the rest of the toolkit</summary>
+<br>
 
-## 📈 Github Stats
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-[![Khemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khemmie-Ray&show_icons=true&theme=dracula&hide=issues)](https://github.com/khemmie-ray/github-readme-stats)
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khemmie-ray&layout=compact&hide=c&langs_count=8)](https://github.com/khemmie-ray/github-readme-stats)
+<br>
 
-image credit: Jonas Mosesson.
+### Chapter Three: Off the Clock
+
+I believe the best way to learn something deeply is to explain it clearly — so I write about blockchain, DeFi, and the tools developers actually use, breaking things down without dumbing them down. Outside of tech, I'm usually lost in a good book, watching something worth talking about, or planning a trip to somewhere I haven't been yet.
+
+<br>
+
+### Chapter Four: Say Something
+
+Not a "let's connect" person. More of a "send me something interesting and let's see what happens" person.
+
+<a href="https://x.com/Haramide"><img src="https://img.shields.io/badge/@Haramide-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/oluwakemi-atoyebi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:atokemmy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://medium.com/@atokemmy"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://scrimba.com/?via=u0j80o"><img src="https://img.shields.io/badge/Scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white"></a>
+
+<br>
+
+---
+
+### The Numbers
+
+<div align="center">
+  <a href="https://github.com/Khemmie-Ray">
+    <img height="180" src="./profile/stats.svg" alt="Khemmie's GitHub stats" />
+  </a>
+  <a href="https://github.com/Khemmie-Ray">
+    <img height="180" src="./profile/top-langs.svg" alt="Top Langs" />
+  </a>
+</div>
+
+---
+
+<sub>Banner credit: Jonas Mosesson</sub>
